@@ -16,8 +16,8 @@ Algorithm to analyze perfusion (flow) of capiliary blood vessels using machine l
     - Otherwise install python from here. https://www.python.org/downloads/release/python-377/
 ## Running ##
 - Download or clone repository
--
-- Now run the VesselDetector.exe
+- Run pip install -r requirements.txt in the project directory
+- Now you can run the VesselDetector.exe
 
 To use APPLICATION:
 - Press browse button, then select target Experiment video file (.avi)
